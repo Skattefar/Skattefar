@@ -5,12 +5,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I'm currently in eigth grade in primary school.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; In love with technology
-- 💼 &nbsp; Android developer and front-end web developer.
 - 📈 &nbsp; Enthusiast in Stocks
-- ✍️ &nbsp; Watching Movies and developing websites
+- ✍️ &nbsp; Playing games, watching movies and developing.
 
 <h3>🛠 Tech Stack</h3>
 
