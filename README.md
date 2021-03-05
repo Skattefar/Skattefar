@@ -15,8 +15,7 @@
 - 💻 &nbsp; LUA | HTML | CSS | JavaScript 
 - 🌐 &nbsp; IOS | Android | MacOS | Windows | Little Unix
 - 🛢 &nbsp; MySQL | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Illustrator | Adobe Dreamweaver | Adobe Photoshop | Adobe Premiere Pro | Adobe After Effects |  Paint.net | VSCode | Filmora
+- 🖥 &nbsp; Adobe Illustrator | Adobe Dreamweaver | Adobe Photoshop | Adobe Premiere Pro | Adobe After Effects |  Paint.net | VSCode | Filmora | Git
 
 <br>
 
