@@ -9,9 +9,8 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; In love with technology
 - 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 📈 &nbsp; Enthusiast in Stocks
+- ✍️ &nbsp; Watching Movies and developing websites
 
 <h3>🛠 Tech Stack</h3>
 
@@ -36,6 +35,6 @@
 <p align="center">
 &nbsp; <a href="https://twitter.com/SkattefarTVa" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/o999iver/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.twitch.tv/skattefartv" target="_blank" rel="noopener noreferrer"><img src="<img src="https://img.icons8.com/nolan/64/twitch.png"/>" width="50" /></a>
+&nbsp; <a href="https://www.twitch.tv/skattefartv" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/twitch.png"" width="50" /></a>
 &nbsp; <a href="mailto:skattefartv@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/gmail.png"  width="50" /></a>
 </p>
