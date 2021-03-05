@@ -6,8 +6,9 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 📈 &nbsp; Enthusiast in Stocks
+- 📈 &nbsp; Interested in stocks and crypto.
 - ✍️ &nbsp; Playing games, watching movies and developing.
+- 🎧 &nbsp; Hearing Rap Music
 
 <h3>🛠 Tech Stack</h3>
 
